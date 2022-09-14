@@ -1,4 +1,4 @@
-## Olá, sou o Lucas Velez!
+## Olá! Eu sou o Lucas Velez
 <div align="center">
   <a href="https://github.com/eovellez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eovellez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
