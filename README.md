@@ -39,11 +39,7 @@ const LucasVelez = {
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eovellez&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-
-[Contato]: mailto:lucasiinttec01@gmail.com
 [Linkedin]: https://linkedin.com/in/lucasvellez
-
-
- [Contato][Contato] **|** 
+  
 👔 [Linkedin][Linkedin]
  
