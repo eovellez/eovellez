@@ -40,11 +40,10 @@ const LucasVelez = {
 </div>
   
 
-[Email]: mailto:lucasiinttec01@gmail.com
+[Contato]: mailto:lucasiinttec01@gmail.com
 [Linkedin]: https://linkedin.com/in/lucasvellez
 
-#### Rede Sociais!
 
- [Email][Email] **|** 
+ [Contato][Contato] **|** 
 👔 [Linkedin][Linkedin]
  
